@@ -1,0 +1,4 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /run/media/faridb/Transfert/JuliaSnip/c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /run/media/faridb/Transfert/JuliaSnip/c/cmake-build-debug

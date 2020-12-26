@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Smart_Antennas.dir/main.c.o CMakeFiles/Smart_Antennas.dir/src/core.c.o  -o Smart_Antennas  -Wl,-rpath,/usr/local/lib /usr/local/lib/libosqp.so 

@@ -1,0 +1,3 @@
+/run/media/faridb/Transfert/JuliaSnip/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/faridb/Transfert/JuliaSnip/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/faridb/Transfert/JuliaSnip/c/cmake-build-debug/CMakeFiles/Smart_Antennas.dir
